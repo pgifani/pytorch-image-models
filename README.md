@@ -1,23 +1,5 @@
 # PyTorch Image Models
-- [Sponsors](#sponsors)
-- [What's New](#whats-new)
-- [Introduction](#introduction)
-- [Models](#models)
-- [Features](#features)
-- [Results](#results)
-- [Getting Started (Documentation)](#getting-started-documentation)
-- [Train, Validation, Inference Scripts](#train-validation-inference-scripts)
-- [Awesome PyTorch Resources](#awesome-pytorch-resources)
-- [Licenses](#licenses)
-- [Citing](#citing)
 
-## Sponsors
-
-Thanks to the following for hardware support:
-* TPU Research Cloud (TRC) (https://sites.research.google/trc/about/)
-* Nvidia (https://www.nvidia.com/en-us/)
-
-And a big thanks to all GitHub sponsors who helped with some of my costs before I joined Hugging Face.
 
 
 ## Citing
